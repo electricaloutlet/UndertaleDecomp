@@ -215,7 +215,7 @@
   "name":"room_water6",
   "parent":{
     "name":"Waterfall",
-    "path":"folders/Rooms/Waterfall.yy",
+    "path":"folders/Rooms/room_water7.yy",
   },
   "parentRoom":null,
   "physicsSettings":{
